@@ -1,7 +1,11 @@
 .App {
   text-align: center;
 }
-
+.cart-wrapper {
+  height: 400px;
+  width: 500px;
+  border: 2px solid black;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
